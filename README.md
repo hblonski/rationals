@@ -1,1 +1,1 @@
-rationals
+Kotlin implementation of rational numbers
